@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>
+How to add bg color
+</title>
+</head>
+<body style="background-color:00ff00;">
+<h1> How to add bg color </h1>
+</body>

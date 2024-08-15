@@ -1,0 +1,28 @@
+<DOCTYPE html>
+    <html lang="en">
+        <head>
+            <title>MY oortfolio</title>
+            <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+
+            <div class="main">
+                <div class="navbar">
+                    <img src="pic/logo.png" class"logo">
+
+                    <ul>
+                        <li><a href="a">HOME</a></li>
+                        <li><a href="a">ABOUT</a></li>
+                        <li><a href="a">SKILLS</a></li>
+                        <li><a href="a">MY WORKS</a></li>
+                        <li><a href="a">CONTACT</a></li>
+                    </ul>
+                </div>
+            </div>
+        </body>
+    </html>
+    
+
+                        
+
+        
